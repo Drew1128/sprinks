@@ -20,7 +20,6 @@ export default function Home() {
   );
 }
 
-// make a form component that allows a user to sign up
 
 const SignupForm = () => {
   return (
